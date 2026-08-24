@@ -1,0 +1,31 @@
+# Virtual environments
+venv/
+.venv/
+
+# Google OAuth credentials and tokens
+credentials.json
+token.json
+
+# Runtime state
+thread_state.json
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# PyCharm project files
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other files
+deepseek_r1_test.py
+ds_chatV1.py
+ga_final.backup.py
+gmail_agent.py
+gmail_reader.py
+gmail_sender.py
+
+
